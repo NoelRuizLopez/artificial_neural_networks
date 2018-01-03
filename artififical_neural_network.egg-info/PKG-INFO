@@ -1,0 +1,36 @@
+Metadata-Version: 1.1
+Name: artififical-neural-network
+Version: 0.1b0
+Summary: ANN Demo
+Home-page: UNKNOWN
+Author: Noel Ruiz
+Author-email: UNKNOWN
+License: Apache License 2.0
+Description: Python Northbound API
+        =====================
+        
+        Installation
+        ------------
+        
+        1. Go to project directory where the 'rest_controller' API is
+        
+        $ ~/rest_controller
+        
+        2. Install 'rest_controller' API
+        
+        $ python setup.py install
+        
+        That's all folks!!
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Natural Language :: English
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Topic :: SystemFramework :: Flask

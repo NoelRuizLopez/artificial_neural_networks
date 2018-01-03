@@ -1,0 +1,3 @@
+[console_scripts]
+ann_demo = redes_neuronales_numpy.training1:main
+
